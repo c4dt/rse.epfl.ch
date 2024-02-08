@@ -9,7 +9,7 @@ of the ETHZ RSE group, a group of RSEs from EPFL are preparing the **EPFL RSE ki
 The kickoff event will happen on Tuesday, the 7th of May 2024, 2pm.
 We don't have yet the location for this event.
 
-To prepare this event, all interested RSEs are invited to join us on the March 5th, 2:30pm, BC410.
+To prepare this event, all interested RSEs are invited to join us on the March 5th, 2:15pm, BC410.
 The program for the March event is the following:
 
 - What is an RSE?
