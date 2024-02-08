@@ -1,0 +1,6 @@
+baseURL = 'https://rse.epfl.ch/'
+languageCode = 'en-us'
+title = 'Research Software Engineers at EPFL'
+theme = 'ananke'
+
+sectionPagesMenu = 'main'

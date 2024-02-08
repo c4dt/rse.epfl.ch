@@ -1,0 +1,25 @@
+{
+  "packages": [
+    "git@latest",
+    "vim@latest",
+    "less@latest",
+    "hugo@latest",
+    "openssh@latest",
+    "linkchecker@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      "echo 'Welcome to devbox!' > /dev/null",
+      "alias ls='ls --color'",
+      "alias ll='ls -l --color'"
+    ],
+    "scripts": {
+      "hugo": [
+        "hugo $@"
+      ],
+      "server": [
+        "hugo server -D"
+      ]
+    }
+  }
+}
