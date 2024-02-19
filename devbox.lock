@@ -101,6 +101,26 @@
         }
       }
     },
+    "rclone@latest": {
+      "last_modified": "2024-01-27T14:55:31Z",
+      "resolved": "github:NixOS/nixpkgs/160b762eda6d139ac10ae081f8f78d640dd523eb#rclone",
+      "source": "devbox-search",
+      "version": "1.65.2",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/maabqyvl9qms8g6dy23npf38pvsfhc2h-rclone-1.65.2"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/xsvpd1vh60941zfax9lk6jg0f0qcxjrc-rclone-1.65.2"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/xc89c6l3cz2d3hcx329dd7450samqawl-rclone-1.65.2"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/si9i1d5fx111b93pxh90dcbw369qd0x0-rclone-1.65.2"
+        }
+      }
+    },
     "vim@latest": {
       "last_modified": "2024-01-27T14:55:31Z",
       "resolved": "github:NixOS/nixpkgs/160b762eda6d139ac10ae081f8f78d640dd523eb#vim",

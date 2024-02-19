@@ -50,3 +50,22 @@ devbox run hugo
 ```
 
 You will find the static html files in the [./public] directory.
+
+## Deploying the page
+
+First set up rclone:
+
+```bash
+devbox shell --pure
+rclone config
+```
+
+Be sure to put `implicit_tls = false` and `explicit_tls = true`.
+
+Then you can deploy using
+
+```bash
+devbox run deploy
+```
+
+This will pull the latest branch, run hugo, and copy the files over.

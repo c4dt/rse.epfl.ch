@@ -5,7 +5,8 @@
     "less@latest",
     "hugo@latest",
     "openssh@latest",
-    "linkchecker@latest"
+    "linkchecker@latest",
+    "rclone@latest"
   ],
   "shell": {
     "init_hook": [
@@ -19,6 +20,11 @@
       ],
       "server": [
         "hugo server -D"
+      ],
+      "update": [
+        "git pull",
+        "hugo",
+        "rclone copy public/ ic-ftps:/rse.epfl.ch/"
       ]
     }
   }
