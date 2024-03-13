@@ -1,7 +1,7 @@
 +++
 title = 'Kickoff Preparation'
 date = 2024-03-12T16:19:21+01:00
-draft = true
+draft = false
 +++
 
 On the 5th of March 2024 we had our preparation meeting for the upcoming EPFL-RSE kickoff meeting.
