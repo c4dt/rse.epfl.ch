@@ -27,6 +27,7 @@ and jump in.
   - Poll for signup to the event: Ahmed
   - Announcements on EPFL screens and in memento: Linus
   - Creating flyer / nice page for screens: Nicolas
+  - Gathering topics for topical discussions: Carine, Valérian
 - During event:
   - MC: Linus 
   - Zoom handler: Son Pha 
