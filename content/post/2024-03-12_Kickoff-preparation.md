@@ -30,7 +30,7 @@ and jump in.
   - Gathering topics for topical discussions: Carine, Valérian
 - During event:
   - MC: Linus 
-  - Zoom handler: Son Pha 
+  - Zoom handler: Son
   - Food: C4DT (Linus looks if this is possible)
   - Group discussions: Bryan, Carine, Son, Valérian 
 
