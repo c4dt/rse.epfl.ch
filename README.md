@@ -18,6 +18,18 @@ https://groups.epfl.ch/#/home/S34249
 Ask [Linus](linus.gasser@epfl.ch) if you want to participate in
 the deployment of the site.
 
+## Using the submodules
+
+This repo uses `git submodule` for the template.
+As much as I dislike git submodules, hugo proposes to do it that way.
+If you're using devbox, the submodules will be installed automatically.
+If you want to run hugo without devbox, install the submodules manually:
+
+```bash
+git submodule init
+git submodule update
+```
+
 ## Testing the page
 
 To test, run the following:
