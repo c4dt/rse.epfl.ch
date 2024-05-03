@@ -77,7 +77,7 @@ Be sure to put `implicit_tls = false` and `explicit_tls = true`.
 Then you can deploy using
 
 ```bash
-devbox run deploy
+devbox run update
 ```
 
 This will pull the latest branch, run hugo, and copy the files over.
