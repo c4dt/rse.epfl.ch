@@ -65,7 +65,17 @@ You will find the static html files in the [./public] directory.
 
 ## Deploying the page
 
-First set up rclone:
+To be able to deploy the page, you need to be part of the rse.epfl.ch group
+at EPFL. Ask @ineiti, @PascalinDe, or @Lanterno to add you to the group.
+Then you can set up rclone with the following config:
+```toml
+type = ftp
+host = ic-ftps.epfl.ch
+tls = false
+explicit_tls = true
+```
+
+Use the following commands to do so:
 
 ```bash
 devbox shell --pure
