@@ -50,6 +50,11 @@ replace `TITLE` with the title of your post.
 Then you can edit [./content/post/TITLE.md] and watch the real-time update of the page
 on http://localhost:1313
 
+Afterwards you also need to update the [./content/_index.html] file:
+for some reason, hugo converts the TITLE to **lowercase**.
+Worse, it works if you test locally on Mac.
+But it will fail on the webserver, which runs on Linux.
+
 Once you're done, don't forget to set `draft = false`, else the blog will not show up
 on the final page.
 
