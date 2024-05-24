@@ -6,7 +6,7 @@
     "hugo@latest",
     "openssh@latest",
     "linkchecker@latest",
-    "rclone@latest"
+    "rclone@1.64.2"
   ],
   "shell": {
     "init_hook": [

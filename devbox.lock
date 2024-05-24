@@ -101,23 +101,23 @@
         }
       }
     },
-    "rclone@latest": {
-      "last_modified": "2024-02-24T23:06:34Z",
-      "resolved": "github:NixOS/nixpkgs/9a9dae8f6319600fa9aebde37f340975cab4b8c0#rclone",
+    "rclone@1.64.2": {
+      "last_modified": "2023-11-17T14:14:56Z",
+      "resolved": "github:NixOS/nixpkgs/a71323f68d4377d12c04a5410e214495ec598d4c#rclone",
       "source": "devbox-search",
-      "version": "1.65.2",
+      "version": "1.64.2",
       "systems": {
         "aarch64-darwin": {
-          "store_path": "/nix/store/485sp3ablclls7nmizs6ylag63x0y552-rclone-1.65.2"
+          "store_path": "/nix/store/grbhskgf8rgzdg477xxlc5bss20rq3ji-rclone-1.64.2"
         },
         "aarch64-linux": {
-          "store_path": "/nix/store/xxfgxpaghj2sivm9fp5ddyrx92g5cdx6-rclone-1.65.2"
+          "store_path": "/nix/store/3ckzmzh8d2hrwn84295r4qj4s8nkd190-rclone-1.64.2"
         },
         "x86_64-darwin": {
-          "store_path": "/nix/store/nc7kpmiw2y04fnsshwsanpha67ig3v64-rclone-1.65.2"
+          "store_path": "/nix/store/9ymf37zka3kgbz2fs18dlf59rcffymv0-rclone-1.64.2"
         },
         "x86_64-linux": {
-          "store_path": "/nix/store/kbjqvvmfgxjxd6cgyvqasbl9qg698kcm-rclone-1.65.2"
+          "store_path": "/nix/store/s61xmghrjig9l97v5dy5c2gsc4mdihgr-rclone-1.64.2"
         }
       }
     },
