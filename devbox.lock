@@ -61,43 +61,51 @@
         }
       }
     },
-    "linkchecker@latest": {
-      "last_modified": "2024-02-24T23:06:34Z",
-      "resolved": "github:NixOS/nixpkgs/9a9dae8f6319600fa9aebde37f340975cab4b8c0#linkchecker",
-      "source": "devbox-search",
-      "version": "10.2.1",
-      "systems": {
-        "aarch64-darwin": {
-          "store_path": "/nix/store/fnbh6727wy0b4qlpgyrpk7wjm2zxss6z-linkchecker-10.2.1"
-        },
-        "aarch64-linux": {
-          "store_path": "/nix/store/lm91x3pg6nvd6nslnfw1br7sw9vjfbq5-linkchecker-10.2.1"
-        },
-        "x86_64-darwin": {
-          "store_path": "/nix/store/9y4s25vnp1458ayia3k6l6q9lh32krhp-linkchecker-10.2.1"
-        },
-        "x86_64-linux": {
-          "store_path": "/nix/store/y3yq1g1d78sc1r5p8v1vbjc1ii40qnxg-linkchecker-10.2.1"
-        }
-      }
-    },
     "openssh@latest": {
-      "last_modified": "2024-02-24T23:06:34Z",
-      "resolved": "github:NixOS/nixpkgs/9a9dae8f6319600fa9aebde37f340975cab4b8c0#openssh",
+      "last_modified": "2024-05-22T06:18:38Z",
+      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#openssh",
       "source": "devbox-search",
-      "version": "9.6p1",
+      "version": "9.7p1",
       "systems": {
         "aarch64-darwin": {
-          "store_path": "/nix/store/1v4kaz5lc227iqb4w9a1jpccqqpnkd91-openssh-9.6p1"
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/nf574yd2xw784pdjifjdklvkv41rbkfs-openssh-9.7p1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/nf574yd2xw784pdjifjdklvkv41rbkfs-openssh-9.7p1"
         },
         "aarch64-linux": {
-          "store_path": "/nix/store/blkhaqk3kxhbaa3d34s0mwz7z5mf2xmh-openssh-9.6p1"
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7yw6shdvj6w1bd29jg4yqmsdgfrjnkpz-openssh-9.7p1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7yw6shdvj6w1bd29jg4yqmsdgfrjnkpz-openssh-9.7p1"
         },
         "x86_64-darwin": {
-          "store_path": "/nix/store/j8fkxrlkfqj3biljiy5r83ckmmjhccgp-openssh-9.6p1"
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/2nin7s5sckp1rszx474kwphpn824pmfv-openssh-9.7p1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/2nin7s5sckp1rszx474kwphpn824pmfv-openssh-9.7p1"
         },
         "x86_64-linux": {
-          "store_path": "/nix/store/g1xqrhyyn0v7zg7n5nyah4fknx3as063-openssh-9.6p1"
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0g1s8yd0biawp32fl3i7kdbi219jx6aq-openssh-9.7p1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/0g1s8yd0biawp32fl3i7kdbi219jx6aq-openssh-9.7p1"
         }
       }
     },
