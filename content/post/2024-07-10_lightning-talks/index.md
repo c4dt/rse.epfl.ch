@@ -13,7 +13,7 @@ Our lineup of lightning talks is sure to spark your curiosity:
 - Bryan Perdrizat: Do you really know git?
 [Presentation](./20240710-RSE_lightning-Bryan_Perdrizat.pdf)
 - Reto Trappitsch: Packaging Python CLIs and GUIs for air-gapped machines
-[Presentation](https://galactic-forensics.space/files/presentations/2024-07-10_Python_Packaging/python_packaging.html)
+[Presentation](./20240710-RSE_lightning-Reto_Trappitsch.pdf)
 
 Thanks for the three presenters, and all the people participating in the discussions
 on these topics.
