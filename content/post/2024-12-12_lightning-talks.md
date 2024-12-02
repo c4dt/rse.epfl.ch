@@ -14,7 +14,7 @@ You can also join via
 
 Here is the program:
 - 11am - lightning talks, 10-15 minutes presentation, followed by questions:
-  - 11:00 - Son Bam-Pha - Local "AI" generated images
+  - 11:00 - Son Pham-Ba - Local "AI" generated images
   - 11:20 - CDD/CDI workgroup return
   - 11:40 - Ahmed Elghareeb - Environmental Impact of AI and its supply chain
 - 12pm - pizza for those on site
