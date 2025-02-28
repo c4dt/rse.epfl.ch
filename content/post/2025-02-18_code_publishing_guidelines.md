@@ -1,21 +1,16 @@
 +++
 title = 'Code publishing good practices guidelines'
-date = 2025-01-22
+date = 2025-02-28
 draft = false
 +++
 
-The [ENAC-IT4R](https://www.epfl.ch/schools/enac/about/data-at-enac/enac-it4research/) team is delighted to have you join us for a working session on updating our resources 
-« Code publishing Good practices guidelines », see our outdated
-[Guide](https://www.epfl.ch/schools/enac/wp-content/uploads/2022/07/GUIDE_CodePublishingGoodPractices_ENACIT4R_2022.pdf), 
-[Poster](https://www.epfl.ch/schools/enac/wp-content/uploads/2022/06/ENAC-IT4R_Code_Publishing_Cheat_Sheet.pdf), 
-[Python template](https://github.com/EPFL-ENAC/enac-it4r-repo-python).
+The [ENAC-IT4R](https://www.epfl.ch/schools/enac/about/data-at-enac/enac-it4research/) team was delighted to have us for a working session on updating their resources 
+« Code publishing Good practices guidelines ».
 
-We'll meet on the
+Various discussions were held around the different topics, and ENAC vows to keep their
+list updated which you can find here:
 
-Tuesday February 18th, 12-13h in [GC D1 384](https://plan.epfl.ch/?room==GC%20D1%20384)
-
-during our weekly tech meetings.
-Bring your own lunch and please [sign up here](https://cryptpad.c4dt.org/form/#/2/form/view/MNYelLFZEH9C2yyW7769VdC02k1Wve5PGZByQD5r1r8/)!
+[ENAC IT4R](https://www.epfl.ch/schools/enac/about/data-at-enac/enac-it4research/#resources) - scroll to the end of the page
 
 As a reminder, you're also welcome to our weekly ENAC-IT4R’s team Tech meeting. 
 The aim is to stay up-to-date with latest data and software technologies relevant to our ENAC research community, on and off campus 🙂 
