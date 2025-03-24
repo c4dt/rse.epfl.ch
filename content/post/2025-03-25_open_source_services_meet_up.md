@@ -6,12 +6,13 @@ draft = false
 
 The Center For Digital Trust (C4DT) is looking forward to host the next
 Open Source Services meet-up.
-It will take place on Tuesday, the 25th of March 2025, in 
+It will take place on Tuesday, the 25th of March 2025, at 11am in 
 [BC010](https://plan.epfl.ch/?room==BC%20010).
-And we have a draft for an agenda:
 
-- e-mails and why they're awesome/history of hosting an e-mail server at gnugen
-- Mastodon at EPFL
-- Showcase web page for OSS services at EPFL
-
-Watch this space for a link to sign up!
+Here is the agenda:
+- 11am lightning talks
+  - Jonas and Yoan of gnugen: "The Email Paradox: Navigating Decentralization, Centralization, and the Future of Communication"
+  - Nicolas Borboën: "Mastodon à l'EPFL"
+  - Francesco Varrato: "On the need for a showcase webpage of EPFL OSS projects"
+- 11:30am discussion groups
+- 12pm lunch
