@@ -1,18 +1,15 @@
 +++
-title = 'Open Source Services meet-up'
-date = 2025-02-28
+title = 'Open Source Software Services meet-up'
+date = 2025-03-27
 draft = false
 +++
 
-The Center For Digital Trust (C4DT) is looking forward to host the next
-Open Source Services meet-up.
-It will take place on Tuesday, the 25th of March 2025, at 11am in 
-[BC010](https://plan.epfl.ch/?room==BC%20010).
+The Center for Digital Trust (C4DT) welcomed participants from all over EPFL to the Spring edition of our Open Source Services meet-up on March 25th. As usual, the meet-up is an opportunity for EPFL's open source community to gather and exchange ideas and experiences. The first part of the meet-up was a round of lightning talks followed by break-out discussion groups to allow participants to dive deeper into the topics. The meet-up was wrapped up by an open-ended pizza lunch where participants could continue to chat about their experiences running and using OSS services at EPFL.
 
-Here is the agenda:
-- 11am lightning talks
-  - Jonas and Yoan of gnugen: "The Email Paradox: Navigating Decentralization, Centralization, and the Future of Communication"
-  - Nicolas Borboën: "Mastodon à l'EPFL"
-  - Francesco Varrato: "On the need for a showcase webpage of EPFL OSS projects"
-- 11:30am discussion groups
-- 12pm lunch
+The presentations covered:
+
+- ["The Email Paradox: Navigating Decentralization, Centralization, and the Future of Communication"](https://gitlab.gnugen.ch/gnugen/presentations/e-mail), by Jonas Sulzer and Yoan Giovannini (gnugen)
+- ["LibreChat - Chat like a pro"](https://docs.google.com/presentation/d/1L4Y-VH3YBndtsQypwGLgC2i-hsmux4opNsags6c_-M0/edit?usp=sharing), by Linus Gasser (C4DT)
+- "FOSS by/for EPFL researchers", by Francesco Varrato (EPFL library)
+
+We're looking forward to the next edition in the Fall '25!
