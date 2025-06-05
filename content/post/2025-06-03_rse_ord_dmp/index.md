@@ -37,10 +37,6 @@ Call to Action: define your FAIR principles beforehand!
 
 ## 3. What topics are RSEs working on at EPFL, and which of them are linked to ORD and need DMPs?
 
-TLDR: PLEASE HELP
-
-Call to action: PLEASE HELP
-
 ![Presentation of subject 3](./presentation_3.jpg)
 
 ## 4. Search for successful non-EPFL communities in ORD and search for a common theme of success (and what about software?).
